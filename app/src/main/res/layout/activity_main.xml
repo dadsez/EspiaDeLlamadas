@@ -37,5 +37,6 @@
         android:id="@+id/btn_agregarTarea"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="false" />
+        android:layout_alignParentEnd="false"
+        android:onClick="onClick"    />
 </RelativeLayout>
